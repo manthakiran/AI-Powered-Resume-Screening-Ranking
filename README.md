@@ -153,7 +153,7 @@ The notebook links resumes to candidates using the **Excel row number**, so the 
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/<your-username>/ATS_Project.git
+git clone https://github.com/manthakiran/ATS_Project.git
 cd ATS_Project
 ```
 
